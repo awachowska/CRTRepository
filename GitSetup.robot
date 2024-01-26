@@ -2,6 +2,7 @@
 Resource                      ../resources/common.robot
 Suite Setup                   Setup Browser
 Suite Teardown                End suite
+#Adding this line in the CRT
 
 
 *** Test Cases ***
